@@ -1,0 +1,7 @@
+C:\Users\qiang\Desktop\图片压缩\bin\Debug\图片压缩.exe
+C:\Users\qiang\Desktop\图片压缩\bin\Debug\图片压缩.pdb
+C:\Users\qiang\Desktop\图片压缩\bin\Debug\System.Core.dll
+C:\Users\qiang\Desktop\图片压缩\bin\Debug\System.Core.xml
+C:\Users\qiang\Desktop\图片压缩\obj\Debug\图片压缩.csproj.CoreCompileInputs.cache
+C:\Users\qiang\Desktop\图片压缩\obj\Debug\图片压缩.exe
+C:\Users\qiang\Desktop\图片压缩\obj\Debug\图片压缩.pdb
